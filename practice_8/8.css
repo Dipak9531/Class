@@ -1,0 +1,214 @@
+.first_div_container{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+}
+.second_div_container{
+    width: 100%;
+    height: 50%;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    margin: 10px;
+
+}
+
+
+.parent_1{
+    position: relative;
+    border-style: solid;
+    border-color: red;
+    width: 300px;
+    height: 300px; 
+}
+.child_1{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    width: 150px;
+    height: 150px;
+    top: 70px;
+    left: 70px;
+}
+.child_2{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(9, 253, 9);
+    width: 60px;
+    height: 60px;
+    top: 40px;
+    left: 115px;
+}
+.child_3{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(9, 253, 9);
+    width: 60px;
+    height: 60px;
+    bottom: 40px;
+    left: 115px;
+}
+.parent_2{
+    position: relative;
+    border-style: solid;
+    border-color: red;
+    width: 300px;
+    height: 300px;  
+}
+.child_4{
+    position: absolute;
+    border-style: solid;
+    background-color: rgb(8, 245, 8);
+    width: 80px;
+    height: 80px;
+    top: 90px;
+    left: 67px;
+}
+.child_5{
+    position: absolute;
+    border-style: solid;
+    width: 120px;
+    height: 120px;
+    top: 20px;
+    right: 23px;
+}
+.child_6{
+    position: absolute;
+    border-style: solid;
+    background-color: rgb(0, 0, 155);
+    width: 120px;
+    height: 120px;
+    bottom: 30px;
+    right: 23px;
+}
+.child_7{
+    position: absolute;
+    border-style: solid;
+    background-color: rgb(8, 245, 8);
+    width: 80px;
+    height: 80px;
+    top: 0px;
+    right: 0px;
+}
+.parent_3{
+    position: relative;
+    border-style: solid;
+    border-color: red;
+    width: 300px;
+    height: 300px;  
+}
+.child_8{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    width: 250px;
+    height: 200px;
+
+}
+.child_9{
+    position: absolute;
+    border-style: solid;
+    border-color: red;
+    background-color: rgb(241, 7, 152);
+    width: 200px;
+    height: 200px;
+    bottom: 0px;
+    right: 0px;
+    border-radius: 30px;
+}
+.child_10{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: aqua;
+    width: 90px;
+    height: 90px;
+    bottom: 0px;
+    left: 0px;
+}
+.child_11{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: red;
+    width: 60px;
+    height: 60px;
+    top: 0px;
+    border-radius: 10px;
+}
+.child_12{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(5, 250, 5);
+    width: 60px;
+    height: 60px;
+    top: 0px;
+    right: 0px;
+    border-radius: 15px;
+}
+.parent_4{
+    position: relative;
+    border-style: solid;
+    border-color: red;
+    width: 300px;
+    height: 300px;  
+}
+.child_13{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: black;
+    width: 200px;
+    height: 200px;
+    top: 40px;
+    left: 40px; 
+}
+.child_14{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: rgb(1, 243, 1);
+    width: 150px;
+    height: 150px;
+    top: 0px;
+    right: 0px;
+}
+.child_15{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: aliceblue;
+    width: 50px;
+    height: 60px;
+   bottom: 80px;
+    left: 80px; 
+}
+.child_16{
+    position: absolute;
+    border-style: solid;
+    border-color: black;
+    background-color: aliceblue;
+    width: 50px;
+    height: 60px;
+    top: 80px;
+    left: 80px; 
+}
+.P{
+    border-style: solid;
+    border-color: red;
+    font-size: 22px;
+    color: blue;
+    width: 80%;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 40px;
+    border-radius: 30px;
+}
